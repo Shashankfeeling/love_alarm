@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020339091585",
+    "project_id": "love-alarm-f8011",
+    "storage_bucket": "love-alarm-f8011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020339091585:android:8e6e6ea2c084be043bb580",
+        "android_client_info": {
+          "package_name": "com.example.love_alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020339091585-7hrkaehtdffr69bidom2i4s7smbm3q92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.love_alarm",
+            "certificate_hash": "22bd5e56bb242d1fa06bba5a91f763b178c6848e"
+          }
+        },
+        {
+          "client_id": "1020339091585-20n945g5ao7kegetjvffkctrphkg72f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvzwi7FJYEMYqZtN3wpotywkl57atMUVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020339091585-20n945g5ao7kegetjvffkctrphkg72f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
